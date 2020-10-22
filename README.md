@@ -1,2 +1,2 @@
 # Image-Classifier
-Image Classifier using CNNs
+Image Classification of Fashion-Apparels into various categories using CNNs.
